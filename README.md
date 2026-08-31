@@ -1462,7 +1462,7 @@ Certification
 Learning
 ```
 
-![Fig-000 — CallingGraph Unfolding Grand Map](figures/Fig-000-CallingGraph-Unfolding-Grand-Map.png)
+![Fig-000 — CallingGraph Unfolding Grand Map](docs/figures/Fig-000-CallingGraph-Unfolding-Grand-Map.png)
 
 ---
 
@@ -1486,7 +1486,7 @@ Unfolding
 Inverse(Folding)
 $$
 
-![Fig-001 — Folding and Unfolding](figures/Fig-001-Folding-and-Unfolding.png)
+![Fig-001 — Folding and Unfolding](docs/figures/Fig-001-Folding-and-Unfolding.png)
 
 ---
 
@@ -1502,7 +1502,7 @@ TwoPhaseSearch
 TriggerLocalizedUnfolding
 $$
 
-![Fig-002 — Two-Phase Search to Trigger Unfolding](figures/Fig-002-Two-Phase-to-Trigger-Unfolding.png)
+![Fig-002 — Two-Phase Search to Trigger Unfolding](docs/figures/Fig-002-Two-Phase-to-Trigger-Unfolding.png)
 
 ---
 
@@ -1522,7 +1522,7 @@ Structural Simulation
 Agent Dispatch
 ```
 
-![Fig-003 — Design-Time CG Wargaming](figures/Fig-003-Design-Time-CG-Wargaming.png)
+![Fig-003 — Design-Time CG Wargaming](docs/figures/Fig-003-Design-Time-CG-Wargaming.png)
 
 ---
 
@@ -1548,7 +1548,7 @@ $$
 \Delta_U
 $$
 
-![Fig-004 — Design-Time CG vs Runtime CG](figures/Fig-004-Design-Time-vs-Runtime-CG.png)
+![Fig-004 — Design-Time CG vs Runtime CG](docs/figures/Fig-004-Design-Time-vs-Runtime-CG.png)
 
 ---
 
@@ -1570,7 +1570,7 @@ U(CG_A,t)
 U(CG_B,t)
 $$
 
-![Fig-005 — The Unfolding Gap](figures/Fig-005-Unfolding-Gap.png)
+![Fig-005 — The Unfolding Gap](docs/figures/Fig-005-Unfolding-Gap.png)
 
 ---
 
@@ -1590,7 +1590,7 @@ Plan
  -> Better Plan
 ```
 
-![Fig-006 — AI Coding Campaign Loop](figures/Fig-006-AI-Coding-Campaign-Loop.png)
+![Fig-006 — AI Coding Campaign Loop](docs/figures/Fig-006-AI-Coding-Campaign-Loop.png)
 
 ---
 
