@@ -1,53 +1,52 @@
 {
-"title": "Hardware–Software Co-Evolution of Intelligence",
-"description": "Hardware–Software Co-Evolution of Intelligence (HSCI) develops a multi-substrate framework for understanding and engineering intelligence across physical, sensory, structural, neural, representational, and generative layers. Its foundational proposition is that intelligence does not necessarily begin with complete internal representation: a physical or sensory difference may already become intelligence-relevant when it acquires structural consequence by changing salience, routing, state, control, computation, or action. The repository develops Intelligence Before Representation, the Structural Consequence Boundary (SCB), Hardware Intelligence Primitives (HIPs), Pre-Representational Intelligence Primitives (PRIPs), Hardware Function Tunnels (HFTs), Per-Function Intelligence Placement, Selective Upward Escalation, Downward Structural Consolidation, multi-timescale intelligence, and multi-substrate Brain-Unit AI. It further proposes autonomous drones as a canonical engineering testbed for evaluating representation cost, salience-triggered computation, emergency Function Tunnels, energy, latency, reliability, and safety. The broader research direction treats hardware and software not as competing forms of intelligence but as co-evolving substrates in which flexible higher-level intelligence can discover useful structural regularities and stable regularities can become candidates for cheaper structural realization.",
-"upload_type": "publication",
-"publication_type": "other",
-"creators": [
-{
-"name": "Tan, Sizhe"
-}
-],
-"access_right": "open",
-"license": "Apache-2.0",
-"keywords": [
-"Hardware–Software Co-Evolution of Intelligence",
-"HSCI",
-"Intelligence Before Representation",
-"Hardware Intelligence",
-"Structural Intelligence",
-"Structural Consequence Boundary",
-"SCB",
-"Hardware Intelligence Primitive",
-"HIP",
-"Pre-Representational Intelligence Primitive",
-"PRIP",
-"Hardware Function Tunnel",
-"HFT",
-"Function Tunnel",
-"Intelligence Placement",
-"Per-Function Intelligence Placement",
-"Multi-Substrate Intelligence",
-"Multi-Timescale Intelligence",
-"Structural Recognition",
-"Recognition Before Recognition",
-"Salience",
-"Resonance",
-"Structural Triggering",
-"Selective Representation",
-"Selective Upward Escalation",
-"Downward Structural Consolidation",
-"Brain-Unit AI",
-"Emergency Intelligence",
-"Autonomous Drones",
-"Structural Continual Learning"
-],
-"related_identifiers": [
-{
-"identifier": "https://github.com/sizhet/Hardware-Software-Co-Evolution-of-Intelligence",
-"relation": "isSupplementTo",
-"scheme": "url"
-}
-],
-"notes": "HSCI v1.0.0 establishes the first research cycle of Hardware–Software Co-Evolution of Intelligence. The release contains four core research documents, a six-figure visual pack, repository navigation and future research directions. The central research question is: Why should intelligence begin only after representation? HSCI proposes that structural recognition, salience, triggering, routing, and other intelligence-relevant consequences may emerge before complete semantic representation, and that the placement of intelligent functions across hardware and software substrates should become an explicit AI architectural design variable."
+  "title": "CallingGraph Unfolding for AI Coding — From Design-Time Structural Planning to Runtime Validation and Certification",
+  "upload_type": "software",
+  "publication_date": "2026-08-31",
+  "description": "CallingGraph Unfolding for AI Coding (CGU) studies how a folded functional CallingGraph can be selectively unfolded into localized structural possibilities for design-time planning, AI coding execution, runtime validation, and evidence-bounded certification. CGU v1.0 focuses strictly on Function-only CallingGraph structure. It introduces CallingGraph Folding, Trigger-Localized Unfolding, Design-Time CallingGraphs, Structural Wargaming, Realized CallingGraphs, the Unfolding Gap, Differential Unfolding, confidence-based certification, and the CallingGraph as an AI Coding Structural Control Plane. The framework moves CallingGraph from a passive post-coding analysis artifact toward an operational structural object participating across the lifecycle: Design → Unfold → Simulate → Dispatch → Code → Fold → Compare → Certify → Learn.",
+  "creators": [
+    {
+      "name": "Tan, Sizhe"
+    }
+  ],
+  "access_right": "open",
+  "license": "Apache-2.0",
+  "version": "1.0.0",
+  "language": "eng",
+  "keywords": [
+    "CallingGraph",
+    "CallingGraph Unfolding",
+    "CGU",
+    "Structural AI",
+    "Structural Intelligence",
+    "AI Coding",
+    "Autonomous Software Engineering",
+    "Design-Time CallingGraph",
+    "Runtime CallingGraph",
+    "Realized CallingGraph",
+    "Structural Folding",
+    "Structural Unfolding",
+    "Trigger-Localized Unfolding",
+    "Structural Wargaming",
+    "Differential Unfolding",
+    "Unfolding Gap",
+    "Structural Validation",
+    "AI Coding Certification",
+    "Evidence-Bounded Certification",
+    "Certification Confidence",
+    "Structural Control Plane",
+    "AI Coding Control Plane",
+    "Multi-Agent Coding",
+    "Structural Planning",
+    "Structural Localization",
+    "Structural Provenance",
+    "Structural Learning"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/sizhet/CallingGraph-Unfolding-for-AI-Coding",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "notes": "CGU v1.0 deliberately restricts its formal scope to Function-only CallingGraph structure. Condition/Context, Runtime State, Policy/Projection, and richer Calling Structural Space models are reserved for future research."
 }
