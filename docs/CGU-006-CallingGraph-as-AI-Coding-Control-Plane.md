@@ -76,6 +76,10 @@ This paper remains strictly within the Function-only CallingGraph model and trea
 
 ---
 
+![Fig-006 — AI Coding Campaign Loop](figures/Fig-006-AI-Coding-Campaign-Loop.png)
+
+---
+
 # 1. Introduction
 
 AI coding is often described as a generation problem.

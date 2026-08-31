@@ -83,6 +83,10 @@ The Design-Time CallingGraph therefore represents a possible structural control 
 
 ---
 
+![Fig-003 — Design-Time CG Wargaming](figures/Fig-003-Design-Time-CG-Wargaming.png)
+
+---
+
 # 1. Introduction
 
 Most CallingGraph systems begin after code exists.

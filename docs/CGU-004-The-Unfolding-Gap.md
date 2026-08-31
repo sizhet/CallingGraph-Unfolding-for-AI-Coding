@@ -79,6 +79,10 @@ This paper develops the Function-only theory of the Unfolding Gap and establishe
 
 ---
 
+![Fig-005 — The Unfolding Gap](figures/Fig-005-Unfolding-Gap.png)
+
+---
+
 # 1. Introduction
 
 CallingGraphs provide a powerful representation of software structure.

@@ -47,6 +47,10 @@ This first paper deliberately restricts the theory to the **Function dimension**
 
 ---
 
+![Fig-000 — CallingGraph Unfolding Grand Map](figures/Fig-000-CallingGraph-Unfolding-Grand-Map.png)
+
+---
+
 # 1. Introduction
 
 Programs contain enormous amounts of structural information.
@@ -254,6 +258,8 @@ That retained structural meaning is what makes Unfolding possible.
 ---
 
 # 4. From Folding to Unfolding
+
+![Fig-001 — Folding and Unfolding](figures/Fig-001-Folding-and-Unfolding.png)
 
 If Folding produces:
 

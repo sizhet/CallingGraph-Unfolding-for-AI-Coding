@@ -51,6 +51,10 @@ The paper remains deliberately limited to the Function dimension of CallingGraph
 
 ---
 
+![Fig-002 — Two-Phase Search to Trigger Unfolding](figures/Fig-002-Two-Phase-to-Trigger-Unfolding.png)
+
+---
+
 # 1. Introduction
 
 Many computational systems begin from the same basic problem:
