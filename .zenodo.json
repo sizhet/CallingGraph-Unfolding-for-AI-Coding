@@ -1,0 +1,53 @@
+{
+"title": "Hardware–Software Co-Evolution of Intelligence",
+"description": "Hardware–Software Co-Evolution of Intelligence (HSCI) develops a multi-substrate framework for understanding and engineering intelligence across physical, sensory, structural, neural, representational, and generative layers. Its foundational proposition is that intelligence does not necessarily begin with complete internal representation: a physical or sensory difference may already become intelligence-relevant when it acquires structural consequence by changing salience, routing, state, control, computation, or action. The repository develops Intelligence Before Representation, the Structural Consequence Boundary (SCB), Hardware Intelligence Primitives (HIPs), Pre-Representational Intelligence Primitives (PRIPs), Hardware Function Tunnels (HFTs), Per-Function Intelligence Placement, Selective Upward Escalation, Downward Structural Consolidation, multi-timescale intelligence, and multi-substrate Brain-Unit AI. It further proposes autonomous drones as a canonical engineering testbed for evaluating representation cost, salience-triggered computation, emergency Function Tunnels, energy, latency, reliability, and safety. The broader research direction treats hardware and software not as competing forms of intelligence but as co-evolving substrates in which flexible higher-level intelligence can discover useful structural regularities and stable regularities can become candidates for cheaper structural realization.",
+"upload_type": "publication",
+"publication_type": "other",
+"creators": [
+{
+"name": "Tan, Sizhe"
+}
+],
+"access_right": "open",
+"license": "Apache-2.0",
+"keywords": [
+"Hardware–Software Co-Evolution of Intelligence",
+"HSCI",
+"Intelligence Before Representation",
+"Hardware Intelligence",
+"Structural Intelligence",
+"Structural Consequence Boundary",
+"SCB",
+"Hardware Intelligence Primitive",
+"HIP",
+"Pre-Representational Intelligence Primitive",
+"PRIP",
+"Hardware Function Tunnel",
+"HFT",
+"Function Tunnel",
+"Intelligence Placement",
+"Per-Function Intelligence Placement",
+"Multi-Substrate Intelligence",
+"Multi-Timescale Intelligence",
+"Structural Recognition",
+"Recognition Before Recognition",
+"Salience",
+"Resonance",
+"Structural Triggering",
+"Selective Representation",
+"Selective Upward Escalation",
+"Downward Structural Consolidation",
+"Brain-Unit AI",
+"Emergency Intelligence",
+"Autonomous Drones",
+"Structural Continual Learning"
+],
+"related_identifiers": [
+{
+"identifier": "https://github.com/sizhet/Hardware-Software-Co-Evolution-of-Intelligence",
+"relation": "isSupplementTo",
+"scheme": "url"
+}
+],
+"notes": "HSCI v1.0.0 establishes the first research cycle of Hardware–Software Co-Evolution of Intelligence. The release contains four core research documents, a six-figure visual pack, repository navigation and future research directions. The central research question is: Why should intelligence begin only after representation? HSCI proposes that structural recognition, salience, triggering, routing, and other intelligence-relevant consequences may emerge before complete semantic representation, and that the placement of intelligent functions across hardware and software substrates should become an explicit AI architectural design variable."
+}

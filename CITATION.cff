@@ -1,0 +1,71 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it using the metadata below."
+title: "Hardware–Software Co-Evolution of Intelligence"
+type: software
+version: "1.0.0"
+date-released: "2026-08-31"
+
+authors:
+  - family-names: "Tan"
+    given-names: "Sizhe"
+
+abstract: >
+  Hardware–Software Co-Evolution of Intelligence (HSCI) proposes that
+  intelligence does not necessarily begin with complete internal
+  representation. Physical and sensory differences may already become
+  intelligence-relevant when they create structural consequences such as
+  salience, triggering, routing, state change, control activation, or action.
+  The framework develops Intelligence Before Representation, the Structural
+  Consequence Boundary, Hardware and Pre-Representational Intelligence
+  Primitives, Hardware Function Tunnels, Per-Function Intelligence Placement,
+  Selective Upward Escalation, Downward Structural Consolidation, and
+  multi-substrate Brain-Unit AI. Autonomous drones are proposed as a canonical
+  engineering testbed for measuring the trade-offs among energy, latency,
+  computation, representation cost, reliability, and safety.
+
+keywords:
+  - "Hardware–Software Co-Evolution of Intelligence"
+  - "HSCI"
+  - "Intelligence Before Representation"
+  - "Hardware Intelligence"
+  - "Structural Intelligence"
+  - "Structural Consequence Boundary"
+  - "SCB"
+  - "Hardware Intelligence Primitive"
+  - "Pre-Representational Intelligence Primitive"
+  - "Hardware Function Tunnel"
+  - "Function Tunnel"
+  - "Intelligence Placement"
+  - "Per-Function Intelligence Placement"
+  - "Multi-Substrate Intelligence"
+  - "Structural Recognition"
+  - "Salience"
+  - "Resonance"
+  - "Brain-Unit AI"
+  - "Emergency Intelligence"
+  - "Autonomous Drones"
+  - "Structural Continual Learning"
+
+license: "Apache-2.0"
+
+repository-code: "https://github.com/sizhet/Hardware-Software-Co-Evolution-of-Intelligence"
+
+preferred-citation:
+  type: software
+  title: "Hardware–Software Co-Evolution of Intelligence"
+  version: "1.0.0"
+  date-released: "2026-08-31"
+  doi: 10.5281/zenodo.22214446
+  authors:
+    - family-names: "Tan"
+      given-names: "Sizhe"
+  repository-code: "https://github.com/sizhet/Hardware-Software-Co-Evolution-of-Intelligence"
+  abstract: >
+    Hardware–Software Co-Evolution of Intelligence (HSCI) develops a
+    multi-substrate view of intelligence in which physical selectivity,
+    resonance, salience, structural triggering, Function Tunnels, neural
+    computation, world models, and generative reasoning can cooperate across
+    different layers and timescales. Its foundational hypothesis is that
+    intelligence may begin before general representation when a physical or
+    sensory difference acquires structural consequence.
+
