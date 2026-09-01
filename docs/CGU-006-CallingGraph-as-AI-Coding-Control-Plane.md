@@ -2633,9 +2633,7 @@ Instead:
 
 $$
 \boxed{
-CallingGraph\ Unfolding
-=
-Pre\text{-}Coding\ Design
+CallingGraph\ Unfolding = Pre\text{-}Coding\ Design
 +
 In\text{-}Coding\ Control
 +
