@@ -1,7 +1,7 @@
 {
   "title": "CallingGraph Unfolding for AI Coding — From Design-Time Structural Planning to Runtime Validation and Certification",
   "upload_type": "software",
-  "publication_date": "2026-08-31",
+  "publication_date": "2026-09-01",
   "description": "CallingGraph Unfolding for AI Coding (CGU) studies how a folded functional CallingGraph can be selectively unfolded into localized structural possibilities for design-time planning, AI coding execution, runtime validation, and evidence-bounded certification. CGU v1.0 focuses strictly on Function-only CallingGraph structure. It introduces CallingGraph Folding, Trigger-Localized Unfolding, Design-Time CallingGraphs, Structural Wargaming, Realized CallingGraphs, the Unfolding Gap, Differential Unfolding, confidence-based certification, and the CallingGraph as an AI Coding Structural Control Plane. The framework moves CallingGraph from a passive post-coding analysis artifact toward an operational structural object participating across the lifecycle: Design → Unfold → Simulate → Dispatch → Code → Fold → Compare → Certify → Learn.",
   "creators": [
     {
