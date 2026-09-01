@@ -1,6 +1,8 @@
 # CallingGraph Unfolding for AI Coding
 
-## From Folded Program Structure to a Structural Control Plane for AI/ASI Coding
+## From Design-Time Structural Planning to Runtime Validation and Certification
+
+**Research theme:** From Folded Program Structure to a Structural Control Plane for AI/ASI Coding
 
 > **Design → Unfold → Simulate → Dispatch → Code → Fold → Compare → Certify → Learn**
 
@@ -2036,7 +2038,7 @@ after repository release metadata is finalized.
 
 ## License
 
-See the repository `LICENSE` file.
+See the repository `LICENSE.txt` file.
 
 ---
 

@@ -1964,30 +1964,29 @@ LEARN
 CallingGraph-Unfolding-for-AI-Coding/
 │
 ├── README.md
-│
-├── START-HERE.md              <-- You are here
+├── START-HERE.md
 ├── CONTENTS.md
-│
-├── CGU-001-CallingGraph-Unfolding.md
-├── CGU-002-Two-Phase-Search-to-Trigger-Localized-Unfolding.md
-├── CGU-003-Design-Time-CallingGraph.md
-├── CGU-004-The-Unfolding-Gap.md
-├── CGU-005-Differential-Unfolding-and-Certification.md
-├── CGU-006-CallingGraph-as-AI-Coding-Control-Plane.md
-│
-├── docs/
-│   ├── FIGURE-INDEX.md
-│   ├── GLOSSARY.md
-│   └── FUTURE-DIRECTIONS.md
-│
-└── figures/
-    ├── Fig-000-CallingGraph-Unfolding-Grand-Map.png
-    ├── Fig-001-Folding-and-Unfolding.png
-    ├── Fig-002-Two-Phase-to-Trigger-Unfolding.png
-    ├── Fig-003-Design-Time-CG-Wargaming.png
-    ├── Fig-004-Design-Time-vs-Runtime-CG.png
-    ├── Fig-005-Unfolding-Gap.png
-    └── Fig-006-AI-Coding-Campaign-Loop.png
+├── CITATION.cff
+├── .zenodo.json
+├── LICENSE
+└── docs/
+    ├── FIGURE-INDEX.md
+    ├── GLOSSARY.md
+    ├── FUTURE-DIRECTIONS.md
+    ├── CGU-001-CallingGraph-Unfolding.md
+    ├── CGU-002-Two-Phase-Search-to-Trigger-Localized-Unfolding.md
+    ├── CGU-003-Design-Time-CallingGraph.md
+    ├── CGU-004-The-Unfolding-Gap.md
+    ├── CGU-005-Differential-Unfolding-and-Certification.md
+    ├── CGU-006-CallingGraph-as-AI-Coding-Control-Plane.md
+    └── figures/
+        ├── Fig-000-CallingGraph-Unfolding-Grand-Map.png
+        ├── Fig-001-Folding-and-Unfolding.png
+        ├── Fig-002-Two-Phase-to-Trigger-Unfolding.png
+        ├── Fig-003-Design-Time-CG-Wargaming.png
+        ├── Fig-004-Design-Time-vs-Runtime-CG.png
+        ├── Fig-005-Unfolding-Gap.png
+        └── Fig-006-AI-Coding-Campaign-Loop.png
 ```
 
 ---
