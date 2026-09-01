@@ -126,9 +126,7 @@ Consider a software system containing thousands of source-code statements.
 At the source-code level, the system may appear as a large universe:
 
 $$
-\mathcal{P}
-=
-\{
+\mathcal{P} = \{
 statement_1,
 statement_2,
 \dots,
@@ -563,9 +561,7 @@ The CallingGraph therefore contains more than a static picture.
 It implicitly contains a structured path space:
 
 $$
-\mathcal{P}(CG)
-=
-\{
+\mathcal{P}(CG) = \{
 P_1,P_2,\dots,P_n
 \}
 $$
@@ -1004,9 +1000,7 @@ CG_A
 \approx
 CG_B
 \not\Rightarrow
-U(CG_A,t)
-=
-U(CG_B,t)
+U(CG_A,t) = U(CG_B,t)
 $$
 
 for every relevant trigger \(t\).

@@ -16,7 +16,7 @@ CGU v1.0 deliberately begins with a narrow research object:
 
 $$
 \boxed{
-F=Function
+F = Function
 }
 $$
 

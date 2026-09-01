@@ -25,7 +25,7 @@
 
 ### CGU-001 — CallingGraph Unfolding
 
-[`CGU-001-CallingGraph-Unfolding.md`](CGU-001-CallingGraph-Unfolding.md)
+[`docs/CGU-001-CallingGraph-Unfolding.md`](docs/CGU-001-CallingGraph-Unfolding.md)
 
 **Subtitle:**
 *From Folded Program Structure to Localized Functional Possibility*
@@ -63,7 +63,7 @@ $$
 
 ### CGU-002 — From Two-Phase Search to Trigger-Localized Unfolding
 
-[`CGU-002-Two-Phase-Search-to-Trigger-Localized-Unfolding.md`](CGU-002-Two-Phase-Search-to-Trigger-Localized-Unfolding.md)
+[`docs/CGU-002-Two-Phase-Search-to-Trigger-Localized-Unfolding.md`](docs/CGU-002-Two-Phase-Search-to-Trigger-Localized-Unfolding.md)
 
 Develops the structural lineage:
 
@@ -103,7 +103,7 @@ $$
 
 ### CGU-003 — Design-Time CallingGraph
 
-[`CGU-003-Design-Time-CallingGraph.md`](CGU-003-Design-Time-CallingGraph.md)
+[`docs/CGU-003-Design-Time-CallingGraph.md`](docs/CGU-003-Design-Time-CallingGraph.md)
 
 **Subtitle:**
 *Structural Wargaming for AI/ASI Coding*
@@ -152,7 +152,7 @@ $$
 
 ### CGU-004 — The Unfolding Gap
 
-[`CGU-004-The-Unfolding-Gap.md`](CGU-004-The-Unfolding-Gap.md)
+[`docs/CGU-004-The-Unfolding-Gap.md`](docs/CGU-004-The-Unfolding-Gap.md)
 
 **Subtitle:**
 *Why CallingGraph Match Does Not Guarantee Runtime Equivalence*
@@ -187,9 +187,7 @@ CG_A
 \approx
 CG_B
 \not\Rightarrow
-U(CG_A,t)
-=
-U(CG_B,t)
+U(CG_A,t) = U(CG_B,t)
 }
 $$
 
@@ -209,7 +207,7 @@ $$
 
 ### CGU-005 — Differential Unfolding and Certification
 
-[`CGU-005-Differential-Unfolding-and-Certification.md`](CGU-005-Differential-Unfolding-and-Certification.md)
+[`docs/CGU-005-Differential-Unfolding-and-Certification.md`](docs/CGU-005-Differential-Unfolding-and-Certification.md)
 
 **Subtitle:**
 *From Static CallingGraph Match to Evidence-Bounded Structural Assurance*
@@ -260,7 +258,7 @@ $$
 
 ### CGU-006 — CallingGraph as an AI Coding Control Plane
 
-[`CGU-006-CallingGraph-as-AI-Coding-Control-Plane.md`](CGU-006-CallingGraph-as-AI-Coding-Control-Plane.md)
+[`docs/CGU-006-CallingGraph-as-AI-Coding-Control-Plane.md`](docs/CGU-006-CallingGraph-as-AI-Coding-Control-Plane.md)
 
 **Subtitle:**
 *From Structural Design and Dispatch to Validation, Certification, and Learning*
@@ -324,7 +322,7 @@ $$
 
 ### Fig-000 — CallingGraph Unfolding Grand Map
 
-[`figures/Fig-000-CallingGraph-Unfolding-Grand-Map.png`](figures/Fig-000-CallingGraph-Unfolding-Grand-Map.png)
+[`docs/figures/Fig-000-CallingGraph-Unfolding-Grand-Map.png`](docs/figures/Fig-000-CallingGraph-Unfolding-Grand-Map.png)
 
 Shows the full CGU lifecycle:
 
@@ -354,7 +352,7 @@ Learning
 
 ### Fig-001 — Folding and Unfolding
 
-[`figures/Fig-001-Folding-and-Unfolding.png`](figures/Fig-001-Folding-and-Unfolding.png)
+[`docs/figures/Fig-001-Folding-and-Unfolding.png`](docs/figures/Fig-001-Folding-and-Unfolding.png)
 
 Illustrates:
 
@@ -380,7 +378,7 @@ $$
 
 ### Fig-002 — Two-Phase Search to Trigger Unfolding
 
-[`figures/Fig-002-Two-Phase-to-Trigger-Unfolding.png`](figures/Fig-002-Two-Phase-to-Trigger-Unfolding.png)
+[`docs/figures/Fig-002-Two-Phase-to-Trigger-Unfolding.png`](docs/figures/Fig-002-Two-Phase-to-Trigger-Unfolding.png)
 
 Shows:
 
@@ -396,7 +394,7 @@ $$
 
 ### Fig-003 — Design-Time CG Wargaming
 
-[`figures/Fig-003-Design-Time-CG-Wargaming.png`](figures/Fig-003-Design-Time-CG-Wargaming.png)
+[`docs/figures/Fig-003-Design-Time-CG-Wargaming.png`](docs/figures/Fig-003-Design-Time-CG-Wargaming.png)
 
 Shows:
 
@@ -418,7 +416,7 @@ Agent Dispatch
 
 ### Fig-004 — Design-Time CG vs Runtime CG
 
-[`figures/Fig-004-Design-Time-vs-Runtime-CG.png`](figures/Fig-004-Design-Time-vs-Runtime-CG.png)
+[`docs/figures/Fig-004-Design-Time-vs-Runtime-CG.png`](docs/figures/Fig-004-Design-Time-vs-Runtime-CG.png)
 
 Illustrates:
 
@@ -444,7 +442,7 @@ $$
 
 ### Fig-005 — The Unfolding Gap
 
-[`figures/Fig-005-Unfolding-Gap.png`](figures/Fig-005-Unfolding-Gap.png)
+[`docs/figures/Fig-005-Unfolding-Gap.png`](docs/figures/Fig-005-Unfolding-Gap.png)
 
 Shows why similar folded structures can unfold differently:
 
@@ -466,7 +464,7 @@ $$
 
 ### Fig-006 — AI Coding Campaign Loop
 
-[`figures/Fig-006-AI-Coding-Campaign-Loop.png`](figures/Fig-006-AI-Coding-Campaign-Loop.png)
+[`docs/figures/Fig-006-AI-Coding-Campaign-Loop.png`](docs/figures/Fig-006-AI-Coding-Campaign-Loop.png)
 
 Shows the complete iterative loop:
 
@@ -533,9 +531,7 @@ $$
 with:
 
 $$
-P
-=
-Projection / Policy\ Operator
+P = Projection / Policy\ Operator
 $$
 
 Possible future question:
@@ -564,7 +560,7 @@ Metadata used for DOI release through Zenodo.
 
 ### License
 
-[`LICENSE`](LICENSE)
+[`LICENSE.txt`](LICENSE.txt)
 
 Project license.
 
@@ -818,9 +814,7 @@ $$
 
 $$
 \boxed{
-\Delta CG
-=
-DT\text{-}CG
+\Delta CG = DT\text{-}CG
 \ominus
 RT\text{-}CG
 }
@@ -830,9 +824,7 @@ $$
 
 $$
 \boxed{
-\Delta_U(t)
-=
-U(DT\text{-}CG,t)
+\Delta_U(t) = U(DT\text{-}CG,t)
 \ominus
 U(RT\text{-}CG,t)
 }
@@ -958,9 +950,7 @@ where:
 A possible future operator:
 
 $$
-P
-=
-Projection / Policy
+P = Projection / Policy
 $$
 
 may select relevant structural views.
@@ -1005,7 +995,7 @@ After reading this index, continue with:
 
 or begin directly with:
 
-[`CGU-001-CallingGraph-Unfolding.md`](CGU-001-CallingGraph-Unfolding.md)
+[`docs/CGU-001-CallingGraph-Unfolding.md`](docs/CGU-001-CallingGraph-Unfolding.md)
 
 ---
 

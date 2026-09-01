@@ -692,9 +692,7 @@ $$
 and:
 
 $$
-U(CG,t_{refund})
-=
-\mathcal{U}_{refund}
+U(CG,t_{refund}) = \mathcal{U}_{refund}
 $$
 
 This localized region is a structural hotspot.
@@ -737,9 +735,7 @@ Therefore:
 
 $$
 \boxed{
-Unfolding
-=
-Localized
+Unfolding = Localized
 +
 Bounded
 }

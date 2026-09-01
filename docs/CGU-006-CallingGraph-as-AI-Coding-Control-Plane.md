@@ -1598,9 +1598,7 @@ CGU-006 adds another interpretation:
 
 $$
 \boxed{
-Certification
-=
-Control\ Signal
+Certification = Control\ Signal
 }
 $$
 

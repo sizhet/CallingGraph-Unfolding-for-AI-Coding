@@ -221,9 +221,7 @@ Therefore:
 
 $$
 \boxed{
-CGU
-=
-Trigger\text{-}Localized\ Structural\ Expansion
+CGU = Trigger\text{-}Localized\ Structural\ Expansion
 }
 $$
 
@@ -301,9 +299,7 @@ We can define:
 
 $$
 \boxed{
-DT\text{-}CG
-=
-Design\text{-}Time\ CallingGraph
+DT\text{-}CG = Design\text{-}Time\ CallingGraph
 }
 $$
 
@@ -338,17 +334,13 @@ This is one of the most important ideas in CGU.
 Traditionally:
 
 $$
-CallingGraph
-=
-Representation\ of\ Existing\ Software
+CallingGraph = Representation\ of\ Existing\ Software
 $$
 
 CGU adds:
 
 $$
-CallingGraph
-=
-Structural\ Skeleton\ for\ Future\ Software
+CallingGraph = Structural\ Skeleton\ for\ Future\ Software
 $$
 
 The DT-CG does not specify every source-code token.
@@ -607,9 +599,7 @@ where:
 
 $$
 \boxed{
-RT\text{-}CG
-=
-Realized\ CallingGraph
+RT\text{-}CG = Realized\ CallingGraph
 }
 $$
 
@@ -649,9 +639,7 @@ and define:
 
 $$
 \boxed{
-\Delta CG
-=
-DT\text{-}CG
+\Delta CG = DT\text{-}CG
 \ominus
 RT\text{-}CG
 }
@@ -707,9 +695,7 @@ CGU defines:
 
 $$
 \boxed{
-\Delta_U(t)
-=
-U(CG_A,t)
+\Delta_U(t) = U(CG_A,t)
 \ominus
 U(CG_B,t)
 }
@@ -771,9 +757,7 @@ Therefore:
 
 $$
 \boxed{
-CG\ Match
-=
-Structural\ Evidence
+CG\ Match = Structural\ Evidence
 }
 $$
 
@@ -813,9 +797,7 @@ then compare:
 
 $$
 \boxed{
-\Delta_U(T)
-=
-U(DT\text{-}CG,T)
+\Delta_U(T) = U(DT\text{-}CG,T)
 \ominus
 U(RT\text{-}CG,T)
 }
@@ -949,9 +931,7 @@ Instead:
 
 $$
 \boxed{
-C5
-=
-Deeper\ Assurance\ Evidence
+C5 = Deeper\ Assurance\ Evidence
 }
 $$
 
@@ -1002,9 +982,7 @@ Thus:
 
 $$
 \boxed{
-Certificate
-=
-Inspectable\ Evidence\ Package
+Certificate = Inspectable\ Evidence\ Package
 }
 $$
 
@@ -1228,9 +1206,7 @@ Instead:
 
 $$
 \boxed{
-CGU
-=
-Pre\text{-}Coding\ Design
+CGU = Pre\text{-}Coding\ Design
 +
 In\text{-}Coding\ Control
 +

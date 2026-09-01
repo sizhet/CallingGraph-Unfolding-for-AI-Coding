@@ -556,9 +556,7 @@ This motivates the central architecture:
 
 $$
 \boxed{
-CallingGraph
-=
-AI\ Coding\ Structural\ Control\ Plane
+CallingGraph = AI\ Coding\ Structural\ Control\ Plane
 }
 $$
 
@@ -656,9 +654,7 @@ Static structural difference is:
 
 $$
 \boxed{
-\Delta CG
-=
-DT\text{-}CG
+\Delta CG = DT\text{-}CG
 \ominus
 RT\text{-}CG
 }
@@ -687,9 +683,7 @@ CG_A
 \approx
 CG_B
 \not\Rightarrow
-U(CG_A,t)
-=
-U(CG_B,t)
+U(CG_A,t) = U(CG_B,t)
 }
 $$
 
@@ -699,9 +693,7 @@ We define:
 
 $$
 \boxed{
-\Delta_U(t)
-=
-U(CG_A,t)
+\Delta_U(t) = U(CG_A,t)
 \ominus
 U(CG_B,t)
 }
@@ -798,9 +790,7 @@ $$
 Likewise:
 
 $$
-DT\text{-}CG
-=
-RT\text{-}CG
+DT\text{-}CG = RT\text{-}CG
 $$
 
 does not prove total behavioral equivalence.
@@ -913,9 +903,7 @@ Thus:
 
 $$
 \boxed{
-Certification
-=
-Claim
+Certification = Claim
 +
 Evidence
 +
@@ -1029,9 +1017,7 @@ Thus:
 
 $$
 \boxed{
-Certificate
-=
-Inspectable\ Evidence\ Package
+Certificate = Inspectable\ Evidence\ Package
 }
 $$
 
@@ -1605,27 +1591,24 @@ CallingGraph-Unfolding-for-AI-Coding/
 ├── CITATION.cff
 ├── .zenodo.json
 ├── LICENSE
-│
-├── CGU-001-CallingGraph-Unfolding.md
-├── CGU-002-Two-Phase-Search-to-Trigger-Localized-Unfolding.md
-├── CGU-003-Design-Time-CallingGraph.md
-├── CGU-004-The-Unfolding-Gap.md
-├── CGU-005-Differential-Unfolding-and-Certification.md
-├── CGU-006-CallingGraph-as-AI-Coding-Control-Plane.md
-│
-├── docs/
-│   ├── FIGURE-INDEX.md
-│   ├── GLOSSARY.md
-│   └── FUTURE-DIRECTIONS.md
-│
-└── figures/
-    ├── Fig-000-CallingGraph-Unfolding-Grand-Map.png
-    ├── Fig-001-Folding-and-Unfolding.png
-    ├── Fig-002-Two-Phase-to-Trigger-Unfolding.png
-    ├── Fig-003-Design-Time-CG-Wargaming.png
-    ├── Fig-004-Design-Time-vs-Runtime-CG.png
-    ├── Fig-005-Unfolding-Gap.png
-    └── Fig-006-AI-Coding-Campaign-Loop.png
+└── docs/
+    ├── FIGURE-INDEX.md
+    ├── GLOSSARY.md
+    ├── FUTURE-DIRECTIONS.md
+    ├── CGU-001-CallingGraph-Unfolding.md
+    ├── CGU-002-Two-Phase-Search-to-Trigger-Localized-Unfolding.md
+    ├── CGU-003-Design-Time-CallingGraph.md
+    ├── CGU-004-The-Unfolding-Gap.md
+    ├── CGU-005-Differential-Unfolding-and-Certification.md
+    ├── CGU-006-CallingGraph-as-AI-Coding-Control-Plane.md
+    └── figures/
+        ├── Fig-000-CallingGraph-Unfolding-Grand-Map.png
+        ├── Fig-001-Folding-and-Unfolding.png
+        ├── Fig-002-Two-Phase-to-Trigger-Unfolding.png
+        ├── Fig-003-Design-Time-CG-Wargaming.png
+        ├── Fig-004-Design-Time-vs-Runtime-CG.png
+        ├── Fig-005-Unfolding-Gap.png
+        └── Fig-006-AI-Coding-Campaign-Loop.png
 ```
 
 ---
