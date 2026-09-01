@@ -1680,9 +1680,7 @@ Functional structure extracted after implementation.
 ### Structural Delta
 
 $$
-\Delta CG
-=
-DT\text{-}CG
+\Delta CG = DT\text{-}CG
 \ominus
 RT\text{-}CG
 $$
@@ -1692,9 +1690,7 @@ $$
 ### Unfolding Gap
 
 $$
-\Delta_U
-=
-U(DT\text{-}CG,T)
+\Delta_U = U(DT\text{-}CG,T)
 \ominus
 U(RT\text{-}CG,T)
 $$
@@ -1805,9 +1801,7 @@ where:
 A possible future operator is:
 
 $$
-P
-=
-Projection / Policy
+P = Projection / Policy
 $$
 
 A richer future model may explore:
