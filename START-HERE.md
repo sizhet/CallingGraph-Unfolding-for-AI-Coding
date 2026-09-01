@@ -1870,9 +1870,7 @@ $$
 
 $$
 \boxed{
-\Delta CG
-=
-DT\text{-}CG
+\Delta CG = DT\text{-}CG
 \ominus
 RT\text{-}CG
 }
@@ -1882,9 +1880,7 @@ $$
 
 $$
 \boxed{
-\Delta_U(t)
-=
-U(DT\text{-}CG,t)
+\Delta_U(t) = U(DT\text{-}CG,t)
 \ominus
 U(RT\text{-}CG,t)
 }
