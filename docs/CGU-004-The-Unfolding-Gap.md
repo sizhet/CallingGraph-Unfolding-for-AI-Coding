@@ -961,15 +961,13 @@ $$
 
 such that:
 
-$$ U(CG_A,t^*) \neq U(CG_B,t^*) $$
+$$ \boxed{ U(CG_A,t^*) \neq U(CG_B,t^*) } $$
 
 Therefore:
 
 $$
 \boxed{
-Finite\ Unfolding\ Evidence
-\neq
-Universal\ Unfolding\ Proof
+Finite\ Unfolding\ Evidence \neq Universal\ Unfolding\ Proof
 }
 $$
 
