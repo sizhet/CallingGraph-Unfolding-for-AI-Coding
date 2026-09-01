@@ -841,9 +841,7 @@ as the confidence supported by available certification evidence.
 Conceptually:
 
 $$
-C_{cert}
-=
-f(
+C_{cert} = f(
 E_{static},
 E_{unfold},
 E_{coverage},
@@ -864,9 +862,7 @@ A simplified conceptual formulation is:
 
 $$
 \boxed{
-C_{cert}
-=
-f(
+C_{cert} = f(
 CGMatch,
 UnfoldingMatch,
 Coverage,
@@ -1074,9 +1070,7 @@ represent runtime evidence.
 Then:
 
 $$
-C_{cert}
-=
-f(
+C_{cert} = f(
 E_{CG},
 E_U,
 E_R
@@ -1210,9 +1204,7 @@ Instead:
 
 $$
 \boxed{
-Certificate
-=
-Evidence\ Package
+Certificate = Evidence\ Package
 }
 $$
 
@@ -1379,9 +1371,7 @@ This supports scalable AI coding campaigns.
 Suppose:
 
 $$
-G
-=
-G_1
+G = G_1
 \cup
 G_2
 \cup
@@ -1481,9 +1471,7 @@ rather than treating all paths equally.
 A simple conceptual model is:
 
 $$
-Coverage_{risk}
-=
-\frac{
+Coverage_{risk} = \frac{
 \sum_{x\in Tested}Criticality(x)
 }{
 \sum_{x\in Planned}Criticality(x)
@@ -1515,9 +1503,7 @@ $$
 with:
 
 $$
-C
-=
-f(
+C = f(
 w_{CG}E_{CG},
 w_UE_U,
 w_RE_R
@@ -1978,9 +1964,7 @@ A simple conceptual model is:
 
 $$
 \boxed{
-C_{final}
-=
-f(
+C_{final} = f(
 DesignEvidence,
 CGMatch,
 UnfoldingEvidence,
