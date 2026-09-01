@@ -161,9 +161,7 @@ $$
 Therefore:
 
 $$
-DT\text{-}CG
-=
-RT\text{-}CG
+DT\text{-}CG = RT\text{-}CG
 $$
 
 under a simple node-edge comparison.
@@ -298,9 +296,7 @@ we may write:
 
 $$
 \boxed{
-\Delta_U(T)
-=
-U(CG_A,T)
+\Delta_U(T) = U(CG_A,T)
 \ominus
 U(CG_B,T)
 }
@@ -608,9 +604,7 @@ $$
 A future metric may take the form:
 
 $$
-Risk(\Delta_U)
-=
-f(
+Risk(\Delta_U) = f(
 Size,
 Location,
 Reachability,
@@ -657,9 +651,7 @@ $$
 Therefore:
 
 $$
-\Delta_U
-=
-\{C,
+\Delta_U = \{C,
 B\rightarrow C,
 C\rightarrow D\}
 $$
@@ -737,9 +729,7 @@ The optional or secondary branch does not.
 Thus:
 
 $$
-MainPath_A
-=
-MainPath_B
+MainPath_A = MainPath_B
 $$
 
 but:
@@ -832,9 +822,7 @@ $$
 and finds no difference:
 
 $$
-U_2(CG_A,t)
-=
-U_2(CG_B,t)
+U_2(CG_A,t) = U_2(CG_B,t)
 $$
 
 A difference may still exist at:
@@ -892,9 +880,7 @@ Therefore equivalence cannot be asserted based on one trigger alone.
 For a trigger set:
 
 $$
-T
-=
-\{t_1,t_2,\dots,t_n\}
+T = \{t_1,t_2,\dots,t_n\}
 $$
 
 coverage becomes important.
@@ -975,11 +961,7 @@ $$
 
 such that:
 
-$$
-U(CG_A,t^*)
-\neq
-U(CG_B,t^*)
-$$
+$$ U(CG_A,t^*) \neq U(CG_B,t^*) $$
 
 Therefore:
 
@@ -1032,9 +1014,7 @@ $$
 At the static level:
 
 $$
-\Delta CG
-=
-DT\text{-}CG
+\Delta CG = DT\text{-}CG
 \ominus
 RT\text{-}CG
 $$
@@ -1043,9 +1023,7 @@ At the unfolding level:
 
 $$
 \boxed{
-\Delta U(T)
-=
-U(DT\text{-}CG,T)
+\Delta U(T) = U(DT\text{-}CG,T)
 \ominus
 U(RT\text{-}CG,T)
 }
@@ -1184,9 +1162,7 @@ Different underlying functional organizations can map into the same or similar f
 Formally:
 
 $$
-F(X)
-=
-F(Y)
+F(X) = F(Y)
 $$
 
 while:
@@ -1365,9 +1341,7 @@ Thus:
 
 $$
 \boxed{
-Differential\ Unfolding
-=
-Paired\ Localized\ Expansion
+Differential\ Unfolding = Paired\ Localized\ Expansion
 +
 Structural\ Comparison
 }
@@ -1400,9 +1374,7 @@ $$
 then compare:
 
 $$
-\Delta_U
-=
-U_A
+\Delta_U = U_A
 \ominus
 U_B
 $$
@@ -1432,9 +1404,7 @@ is the corresponding path set from \(CG_B\).
 Then:
 
 $$
-\Delta P^-
-=
-P_A-P_B
+\Delta P^- = P_A-P_B
 $$
 
 represents missing paths.
@@ -1442,9 +1412,7 @@ represents missing paths.
 And:
 
 $$
-\Delta P^+
-=
-P_B-P_A
+\Delta P^+ = P_B-P_A
 $$
 
 represents unexpected paths.
@@ -1458,17 +1426,13 @@ This provides a simple path-based formulation of the Unfolding Gap.
 Similarly:
 
 $$
-\Delta V^-
-=
-V_A-V_B
+\Delta V^- = V_A-V_B
 $$
 
 and:
 
 $$
-\Delta V^+
-=
-V_B-V_A
+\Delta V^+ = V_B-V_A
 $$
 
 represent missing and unexpected functional units.
@@ -1482,15 +1446,11 @@ These simple set-based comparisons provide an initial implementation path.
 For calling relations:
 
 $$
-\Delta E^-
-=
-E_A-E_B
+\Delta E^- = E_A-E_B
 $$
 
 $$
-\Delta E^+
-=
-E_B-E_A
+\Delta E^+ = E_B-E_A
 $$
 
 A differential report can therefore be structured as:
@@ -1515,9 +1475,7 @@ Not all structural gaps have equal importance.
 A future severity model may define:
 
 $$
-Severity(\Delta_U)
-=
-f(
+Severity(\Delta_U) = f(
 Criticality,
 Reachability,
 PathRole,
@@ -1602,9 +1560,7 @@ A certification report should indicate not only results but coverage.
 For example:
 
 $$
-Coverage_U
-=
-\frac{|T_{tested}|}{|T_{planned}|}
+Coverage_U = \frac{|T_{tested}|}{|T_{planned}|}
 $$
 
 when a planned trigger set is known.
@@ -1612,9 +1568,7 @@ when a planned trigger set is known.
 More generally:
 
 $$
-Coverage_U
-=
-f(
+Coverage_U = f(
 TriggerCoverage,
 PathCoverage,
 NodeCoverage,
@@ -1739,39 +1693,27 @@ None should automatically be treated as complete alone.
 A preliminary evidence ladder is:
 
 $$
-E_0
-=
-Syntax/Compilation
+E_0 = Syntax/Compilation
 $$
 
 $$
-E_1
-=
-Static\ CallingGraph
+E_1 = Static\ CallingGraph
 $$
 
 $$
-E_2
-=
-Differential\ CallingGraph
+E_2 = Differential\ CallingGraph
+$$
+
+$$ 
+E_3 = Differential\ Unfolding
 $$
 
 $$
-E_3
-=
-Differential\ Unfolding
+E_4 = Runtime\ Trajectory
 $$
 
 $$
-E_4
-=
-Runtime\ Trajectory
-$$
-
-$$
-E_5
-=
-Integrated\ Certification\ Confidence
+E_5 = Integrated\ Certification\ Confidence
 $$
 
 This ladder becomes the foundation of CGU-005.
@@ -2062,9 +2004,7 @@ It is useful to distinguish:
 Expected structure is missing.
 
 $$
-\Delta_U^-
-=
-U_D-U_R
+\Delta_U^- = U_D-U_R
 $$
 
 ### Positive Gap
@@ -2072,9 +2012,7 @@ $$
 Unexpected structure appears.
 
 $$
-\Delta_U^+
-=
-U_R-U_D
+\Delta_U^+ = U_R-U_D
 $$
 
 Both matter.
