@@ -422,23 +422,6 @@ This functional map exists before detailed implementation.
 
 ---
 
-## Structural Wargaming Before Coding
-
-Once a Design-Time CallingGraph exists, AI coding does not need to begin
-immediately. The intended structure can first be unfolded, inspected,
-compared, segmented, and revised before implementation resources are
-committed.
-
-![Fig-003 — Design-Time CallingGraph Structural Wargaming](figures/Fig-003-Design-Time-CG-Wargaming.png)
-
-**Figure 3. Design-Time CallingGraph Structural Wargaming.**  
-Requirements are first folded into a Design-Time CallingGraph. Candidate
-structures can then be unfolded and structurally simulated before coding,
-allowing primary, alternative, and fallback implementation plans to be
-evaluated before execution.
-
----
-
 # 8. Structural Wargaming
 
 Once a DT-CG exists, it can be unfolded before coding begins.
@@ -476,6 +459,24 @@ Functional\ Consequences
 $$
 
 before source code is committed.
+
+
+---
+
+## Structural Wargaming Before Coding
+
+Once a Design-Time CallingGraph exists, AI coding does not need to begin
+immediately. The intended structure can first be unfolded, inspected,
+compared, segmented, and revised before implementation resources are
+committed.
+
+![Fig-003 — Design-Time CallingGraph Structural Wargaming](figures/Fig-003-Design-Time-CG-Wargaming.png)
+
+**Figure 3. Design-Time CallingGraph Structural Wargaming.**  
+Requirements are first folded into a Design-Time CallingGraph. Candidate
+structures can then be unfolded and structurally simulated before coding,
+allowing primary, alternative, and fallback implementation plans to be
+evaluated before execution.
 
 ---
 
