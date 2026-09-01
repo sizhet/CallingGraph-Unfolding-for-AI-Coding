@@ -292,6 +292,22 @@ This forms the first major structural evidence layer.
 
 ---
 
+## Design-Time Structure versus Realized Structure
+
+Certification begins by making the intended and realized functional structures
+explicitly comparable. The Design-Time CallingGraph provides the structural
+reference, while the Realized CallingGraph represents the structure obtained
+from the implementation.
+
+![Fig-004 — Design-Time CG vs Runtime CG](figures/Fig-004-Design-Time-vs-Runtime-CG.png)
+
+**Figure 4. Design-Time CallingGraph versus Realized CallingGraph.**  
+The intended functional structure and the implemented functional structure are
+compared first through static structural difference and then through
+Differential Unfolding, coverage, and runtime evidence.
+
+---
+
 # 7. Static Match Categories
 
 A static comparison can classify differences into:

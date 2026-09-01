@@ -76,10 +76,6 @@ This paper remains strictly within the Function-only CallingGraph model and trea
 
 ---
 
-![Fig-006 — AI Coding Campaign Loop](figures/Fig-006-AI-Coding-Campaign-Loop.png)
-
----
-
 # 1. Introduction
 
 AI coding is often described as a generation problem.
@@ -125,6 +121,23 @@ If many agents participate, who decides:
 A CallingGraph can provide a structural answer.
 
 ---
+
+## CGU Grand Map
+
+The complete CGU architecture connects structural design, localized unfolding,
+AI coding execution, realized-structure reconstruction, differential
+validation, certification, and structural learning within one continuous
+control loop.
+
+![Fig-000 — CallingGraph Unfolding Grand Map](figures/Fig-000-CallingGraph-Unfolding-Grand-Map.png)
+
+**Figure 0. CallingGraph Unfolding Grand Map.**  
+The CGU lifecycle begins with intent and Design-Time CallingGraph construction,
+continues through unfolding, structural planning, dispatch, and AI coding, and
+returns through Folding, Differential Unfolding, runtime validation,
+certification, and structural learning.
+
+--- 
 
 # 2. The Conventional CallingGraph Role
 
@@ -2964,6 +2977,23 @@ DT\text{-}CG'
 $$
 
 This is the canonical control loop.
+
+---
+
+## The AI Coding Campaign and Certification Loop
+
+The complete operational interpretation of CGU is a closed structural campaign:
+design guides execution, execution produces realized structure, realized
+structure produces evidence, and evidence drives certification, repair,
+replanning, and learning.
+
+![Fig-006 — AI Coding Campaign and Certification Loop](figures/Fig-006-AI-Coding-Campaign-Loop.png)
+
+**Figure 6. AI Coding Campaign and Certification Loop.**  
+Design-Time CallingGraph planning is unfolded into localized coding work,
+distributed to execution units, folded back from implementation into realized
+structure, compared through structural and unfolding differentials, certified,
+and finally returned as evidence for repair, replanning, or structural learning.
 
 ---
 

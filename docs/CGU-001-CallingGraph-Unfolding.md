@@ -47,10 +47,6 @@ This first paper deliberately restricts the theory to the **Function dimension**
 
 ---
 
-![Fig-000 — CallingGraph Unfolding Grand Map](figures/Fig-000-CallingGraph-Unfolding-Grand-Map.png)
-
----
-
 # 1. Introduction
 
 Programs contain enormous amounts of structural information.
@@ -257,8 +253,6 @@ That retained structural meaning is what makes Unfolding possible.
 
 # 4. From Folding to Unfolding
 
-![Fig-001 — Folding and Unfolding](figures/Fig-001-Folding-and-Unfolding.png)
-
 If Folding produces:
 
 $$
@@ -330,6 +324,23 @@ is a functional possibility space compatible with the folded structure.
 This is the first essential distinction of CallingGraph Unfolding:
 
 > **Unfolding recovers structural possibilities, not necessarily the original representation.**
+
+---
+
+## Visualizing Folding and Unfolding
+
+Figure 1 summarizes the central structural duality of CGU. A program can be
+folded into a CallingGraph, while the CallingGraph can subsequently be
+selectively unfolded into localized functional possibilities. Importantly,
+unfolding is not the inverse reconstruction of the original program; it is a
+trigger-localized structural expansion.
+
+![Fig-001 — Folding and Unfolding](figures/Fig-001-Folding-and-Unfolding.png)
+
+**Figure 1. Folding and Unfolding of a CallingGraph.**  
+Program structure is folded into a compact functional CallingGraph, while
+selected regions of that graph can be unfolded into localized functional
+possibility spaces.
 
 ---
 

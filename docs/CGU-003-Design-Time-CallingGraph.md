@@ -83,10 +83,6 @@ The Design-Time CallingGraph therefore represents a possible structural control 
 
 ---
 
-![Fig-003 — Design-Time CG Wargaming](figures/Fig-003-Design-Time-CG-Wargaming.png)
-
----
-
 # 1. Introduction
 
 Most CallingGraph systems begin after code exists.
@@ -423,6 +419,23 @@ A requirement may first become:
 ```
 
 This functional map exists before detailed implementation.
+
+---
+
+## Structural Wargaming Before Coding
+
+Once a Design-Time CallingGraph exists, AI coding does not need to begin
+immediately. The intended structure can first be unfolded, inspected,
+compared, segmented, and revised before implementation resources are
+committed.
+
+![Fig-003 — Design-Time CallingGraph Structural Wargaming](figures/Fig-003-Design-Time-CG-Wargaming.png)
+
+**Figure 3. Design-Time CallingGraph Structural Wargaming.**  
+Requirements are first folded into a Design-Time CallingGraph. Candidate
+structures can then be unfolded and structurally simulated before coding,
+allowing primary, alternative, and fallback implementation plans to be
+evaluated before execution.
 
 ---
 

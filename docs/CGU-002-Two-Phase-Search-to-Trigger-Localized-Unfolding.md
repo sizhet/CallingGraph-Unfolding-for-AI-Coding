@@ -51,10 +51,6 @@ The paper remains deliberately limited to the Function dimension of CallingGraph
 
 ---
 
-![Fig-002 — Two-Phase Search to Trigger Unfolding](figures/Fig-002-Two-Phase-to-Trigger-Unfolding.png)
-
----
-
 # 1. Introduction
 
 Many computational systems begin from the same basic problem:
@@ -387,6 +383,22 @@ $$
 instead of repeatedly rebuilding locality from the full universe.
 
 This is an important evolutionary step.
+
+---
+
+## From Search Localization to Structural Unfolding
+
+The progression can now be viewed as a continuous structural evolution:
+instead of repeatedly searching a large universe, previously discovered
+structure can be folded, retained, localized, and selectively unfolded when
+new tasks arrive.
+
+![Fig-002 — From Two-Phase Search to Trigger-Localized Unfolding](figures/Fig-002-Two-Phase-to-Trigger-Unfolding.png)
+
+**Figure 2. From Two-Phase Search to Trigger-Localized Unfolding.**  
+The computational strategy evolves from full-universe search, through explicit
+candidate localization, toward reusable pre-folded structural localization
+and trigger-driven unfolding.
 
 ---
 

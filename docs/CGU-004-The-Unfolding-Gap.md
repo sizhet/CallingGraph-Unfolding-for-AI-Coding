@@ -12,7 +12,7 @@
 ---
 
 ## Abstract
-
+ 
 CallingGraph comparison is an important tool for validating software structure.
 
 If two programs produce similar nodes, edges, and calling paths, it is tempting to conclude that they are structurally equivalent and therefore likely to behave equivalently.
@@ -72,10 +72,6 @@ A generated program may reproduce much of the intended CallingGraph while still 
 Therefore static CallingGraph agreement should be interpreted as **structural evidence**, not universal proof.
 
 This paper develops the Function-only theory of the Unfolding Gap and establishes the foundation for differential unfolding and confidence-based AI coding certification.
-
----
-
-![Fig-005 — The Unfolding Gap](figures/Fig-005-Unfolding-Gap.png)
 
 ---
 
@@ -312,6 +308,22 @@ It may compare:
 * path counts;
 * local subgraphs;
 * structural alternatives.
+
+---
+
+## Visualizing the Unfolding Gap
+
+Static structural similarity is only one layer of evidence. Two CallingGraphs
+may appear similar under a selected folded representation while exposing
+different localized structural possibilities under a relevant trigger.
+
+![Fig-005 — The Unfolding Gap](figures/Fig-005-Unfolding-Gap.png)
+
+**Figure 5. The Unfolding Gap.**  
+A small or hidden difference in folded structure may become operationally
+significant after trigger-localized unfolding. Differential unfolding therefore
+examines not only whether two graphs look similar, but whether relevant
+localized structural possibilities remain aligned.
 
 ---
 
