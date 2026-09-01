@@ -563,8 +563,7 @@ Each plan can be unfolded independently.
 Given a trigger set:
 
 $$
-T=
-\{t_1,t_2,\dots,t_n\}
+T = \{t_1,t_2,\dots,t_n\}
 $$
 
 each candidate design can be tested:
@@ -622,9 +621,7 @@ A Design-Time CallingGraph does not need to be selected only by intuition.
 A structural decision process may evaluate:
 
 $$
-Score(CG_i)
-=
-f(
+Score(CG_i) = f(
 Coverage,
 Complexity,
 Modularity,

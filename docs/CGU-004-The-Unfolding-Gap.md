@@ -288,8 +288,7 @@ where \(\ominus\) represents a structural difference operator.
 For a trigger set:
 
 $$
-T=
-\{t_1,t_2,\dots,t_n\}
+T = \{t_1,t_2,\dots,t_n\}
 $$
 
 we may write:

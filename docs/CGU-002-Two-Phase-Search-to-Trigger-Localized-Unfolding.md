@@ -66,9 +66,7 @@ The simplest solution is to search the entire universe.
 Formally:
 
 $$
-\mathcal{U}
-=
-\{x_1,x_2,\dots,x_n\}
+\mathcal{U} = \{x_1,x_2,\dots,x_n\}
 $$
 
 and the system seeks:

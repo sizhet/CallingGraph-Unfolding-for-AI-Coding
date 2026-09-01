@@ -227,9 +227,7 @@ This establishes the static validation layer.
 The fourth demo should apply the same trigger set:
 
 $$
-T
-=
-\{t_1,t_2,\dots,t_n\}
+T = \{t_1,t_2,\dots,t_n\}
 $$
 
 to both:
@@ -248,9 +246,7 @@ and compute:
 
 $$
 \boxed{
-\Delta_U(T)
-=
-U(DT\text{-}CG,T)
+\Delta_U(T) = U(DT\text{-}CG,T)
 \ominus
 U(RT\text{-}CG,T)
 }
@@ -410,9 +406,7 @@ is simple but often inefficient.
 A future system may use adaptive depth:
 
 $$
-d
-=
-f(
+d = f(
 Criticality,
 Complexity,
 Uncertainty,
@@ -469,9 +463,7 @@ Potential hotspot signals include:
 A future hotspot score could take the form:
 
 $$
-H(v)
-=
-f(
+H(v) = f(
 Centrality,
 Criticality,
 Change,
@@ -608,9 +600,7 @@ A single missing authorization edge may matter more than many harmless helper-fu
 A future criticality model may consider:
 
 $$
-Criticality(x)
-=
-f(
+Criticality(x) = f(
 Role,
 Reachability,
 Impact,
@@ -726,9 +716,7 @@ Candidate analyses include:
 A candidate design score might be:
 
 $$
-Score(CG_D)
-=
-f(
+Score(CG_D) = f(
 Coverage,
 Modularity,
 Complexity,

@@ -225,9 +225,7 @@ $$
 Formally:
 
 $$
-F_{CG}(Program)
-=
-CG
+F_{CG}(Program) = CG
 $$
 
 ## Output
@@ -361,8 +359,7 @@ A **Trigger Set** is a collection of triggers used during unfolding or validatio
 Formally:
 
 $$
-T=
-\{t_1,t_2,\dots,t_n\}
+T = \{t_1,t_2,\dots,t_n\}
 $$
 
 ## Typical Use
@@ -769,9 +766,7 @@ RT-CG does not necessarily mean a graph reconstructed purely from runtime traces
 Unless otherwise stated:
 
 $$
-RT\text{-}CG
-=
-Realized\ CallingGraph
+RT\text{-}CG = Realized\ CallingGraph
 $$
 
 not necessarily:

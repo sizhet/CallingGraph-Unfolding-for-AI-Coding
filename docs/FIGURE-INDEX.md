@@ -57,7 +57,7 @@ The figure pack should be read as a visual companion to the CGU paper series.
 
 **File:**
 
-[`../figures/Fig-000-CallingGraph-Unfolding-Grand-Map.png`](../figures/Fig-000-CallingGraph-Unfolding-Grand-Map.png)
+[`figures/Fig-000-CallingGraph-Unfolding-Grand-Map.png`](figures/Fig-000-CallingGraph-Unfolding-Grand-Map.png)
 
 ## Core Message
 
@@ -89,9 +89,7 @@ The central idea is:
 
 $$
 \boxed{
-CallingGraph
-=
-Bridge\ Between\ Design\ Intent\ and\ Realized\ Software
+CallingGraph = Bridge\ Between\ Design\ Intent\ and\ Realized\ Software
 }
 $$
 
@@ -137,7 +135,7 @@ Secondary placement:
 
 **File:**
 
-[`../figures/Fig-001-Folding-and-Unfolding.png`](../figures/Fig-001-Folding-and-Unfolding.png)
+[`figures/Fig-001-Folding-and-Unfolding.png`](figures/Fig-001-Folding-and-Unfolding.png)
 
 ## Core Message
 
@@ -210,7 +208,7 @@ Best placed after the first formal definition of Folding and Unfolding in `CGU-0
 
 **File:**
 
-[`../figures/Fig-002-Two-Phase-to-Trigger-Unfolding.png`](../figures/Fig-002-Two-Phase-to-Trigger-Unfolding.png)
+[`figures/Fig-002-Two-Phase-to-Trigger-Unfolding.png`](figures/Fig-002-Two-Phase-to-Trigger-Unfolding.png)
 
 ## Core Message
 
@@ -274,7 +272,7 @@ Place after the section introducing Two-Phase Search and before detailed Trigger
 
 **File:**
 
-[`../figures/Fig-003-Design-Time-CG-Wargaming.png`](../figures/Fig-003-Design-Time-CG-Wargaming.png)
+[`figures/Fig-003-Design-Time-CG-Wargaming.png`](figures/Fig-003-Design-Time-CG-Wargaming.png)
 
 ## Core Message
 
@@ -348,7 +346,7 @@ Best placed near the first introduction of Structural Wargaming in `CGU-003`.
 
 **File:**
 
-[`../figures/Fig-004-Design-Time-vs-Runtime-CG.png`](../figures/Fig-004-Design-Time-vs-Runtime-CG.png)
+[`figures/Fig-004-Design-Time-vs-Runtime-CG.png`](figures/Fig-004-Design-Time-vs-Runtime-CG.png)
 
 ## Core Message
 
@@ -370,9 +368,7 @@ The basic structural difference is:
 
 $$
 \boxed{
-\Delta CG
-=
-DT\text{-}CG
+\Delta CG = DT\text{-}CG
 \ominus
 RT\text{-}CG
 }
@@ -432,7 +428,7 @@ in CGU-005.
 
 **File:**
 
-[`../figures/Fig-005-Unfolding-Gap.png`](../figures/Fig-005-Unfolding-Gap.png)
+[`figures/Fig-005-Unfolding-Gap.png`](figures/Fig-005-Unfolding-Gap.png)
 
 ## Core Message
 
@@ -452,9 +448,7 @@ The Unfolding Gap is:
 
 $$
 \boxed{
-\Delta_U(t)
-=
-U(CG_A,t)
+\Delta_U(t) = U(CG_A,t)
 \ominus
 U(CG_B,t)
 }
@@ -513,7 +507,7 @@ in CGU-004.
 
 **File:**
 
-[`../figures/Fig-006-AI-Coding-Campaign-Loop.png`](../figures/Fig-006-AI-Coding-Campaign-Loop.png)
+[`figures/Fig-006-AI-Coding-Campaign-Loop.png`](figures/Fig-006-AI-Coding-Campaign-Loop.png)
 
 ## Core Message
 
@@ -826,9 +820,7 @@ $$
 ## Fig-004
 
 $$
-\Delta CG
-=
-DT\text{-}CG
+\Delta CG = DT\text{-}CG
 \ominus
 RT\text{-}CG
 $$
@@ -838,9 +830,7 @@ $$
 ## Fig-005
 
 $$
-\Delta_U(t)
-=
-U(DT\text{-}CG,t)
+\Delta_U(t) = U(DT\text{-}CG,t)
 \ominus
 U(RT\text{-}CG,t)
 $$

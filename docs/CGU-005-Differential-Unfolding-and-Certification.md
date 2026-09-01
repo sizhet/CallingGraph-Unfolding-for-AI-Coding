@@ -254,9 +254,7 @@ Define:
 
 $$
 \boxed{
-\Delta CG
-=
-DT\text{-}CG
+\Delta CG = DT\text{-}CG
 \ominus
 RT\text{-}CG
 }
@@ -332,25 +330,19 @@ $$
 the certification system computes:
 
 $$
-U_D(t_i)
-=
-U(DT\text{-}CG,t_i)
+U_D(t_i) = U(DT\text{-}CG,t_i)
 $$
 
 and:
 
 $$
-U_R(t_i)
-=
-U(RT\text{-}CG,t_i)
+U_R(t_i) = U(RT\text{-}CG,t_i)
 $$
 
 then compares them:
 
 $$
-\Delta_U(t_i)
-=
-U_D(t_i)
+\Delta_U(t_i) = U_D(t_i)
 \ominus
 U_R(t_i)
 $$
@@ -362,9 +354,7 @@ $$
 Let:
 
 $$
-T
-=
-\{t_1,t_2,\dots,t_n\}
+T = \{t_1,t_2,\dots,t_n\}
 $$
 
 represent the certification trigger set.
@@ -395,9 +385,7 @@ Formally:
 
 $$
 \boxed{
-Cert_U
-=
-Compare(
+Cert_U = Compare(
 U(DT\text{-}CG,T),
 U(RT\text{-}CG,T)
 )
@@ -441,9 +429,7 @@ representing node, edge, and path differences.
 Thus:
 
 $$
-\Delta_U(t_i)
-=
-(
+\Delta_U(t_i) = (
 \Delta V_i,
 \Delta E_i,
 \Delta P_i
@@ -475,9 +461,7 @@ for unexpected structure appearing in the realization.
 Thus:
 
 $$
-\Delta_U
-=
-(
+\Delta_U = (
 \Delta_U^-,
 \Delta_U^+
 )
@@ -639,9 +623,7 @@ represent the importance of node, edge, or path \(x\).
 A future severity function may be:
 
 $$
-Severity(\Delta)
-=
-f(
+Severity(\Delta) = f(
 Criticality,
 Reachability,
 Location,
@@ -690,9 +672,7 @@ $$
 then:
 
 $$
-Coverage_T
-=
-\frac{|T_{tested}|}{|T_{planned}|}
+Coverage_T = \frac{|T_{tested}|}{|T_{planned}|}
 $$
 
 This is one simple coverage measure.
@@ -712,9 +692,7 @@ represent nodes appearing within tested unfolding regions.
 Then:
 
 $$
-Coverage_V
-=
-\frac{|V_{covered}|}{|V_{DT}|}
+Coverage_V = \frac{|V_{covered}|}{|V_{DT}|}
 $$
 
 may provide node-level structural coverage.
@@ -726,9 +704,7 @@ may provide node-level structural coverage.
 Similarly:
 
 $$
-Coverage_E
-=
-\frac{|E_{covered}|}{|E_{DT}|}
+Coverage_E = \frac{|E_{covered}|}{|E_{DT}|}
 $$
 
 measures the fraction of design-time edges included in tested regions.
@@ -836,9 +812,7 @@ Thus:
 
 $$
 \boxed{
-Certification
-=
-Claim
+Certification = Claim
 +
 Evidence
 +

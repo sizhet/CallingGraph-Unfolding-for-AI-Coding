@@ -215,9 +215,7 @@ In the Function-only CGU model:
 
 $$
 \boxed{
-CG\ Control\ Plane
-=
-Functional\ Structural\ Coordination\ Layer
+CG\ Control\ Plane = Functional\ Structural\ Coordination\ Layer
 }
 $$
 
