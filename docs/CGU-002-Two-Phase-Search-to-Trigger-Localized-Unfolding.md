@@ -1142,9 +1142,7 @@ The CallingGraph preserves information about functional organization across task
 Therefore:
 
 $$
-CG
-=
-Persistent\ Structural\ Memory
+CG = Persistent\ Structural\ Memory
 $$
 
 in a limited but useful sense.

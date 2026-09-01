@@ -994,9 +994,7 @@ This motivates a broader interpretation:
 
 $$
 \boxed{
-DT\text{-}CG
-=
-AI\ Coding\ Structural\ Control\ Plane
+DT\text{-}CG = AI\ Coding\ Structural\ Control\ Plane
 }
 $$
 
@@ -1246,9 +1244,7 @@ This is the beginning of structural certification.
 Define:
 
 $$
-\Delta CG
-=
-DT\text{-}CG
+\Delta CG = DT\text{-}CG
 \ominus
 RT\text{-}CG
 $$
@@ -1542,9 +1538,7 @@ $$
 \boxed{
 DT\text{-}CG
 +
-Unfolding
-=
-Executable\ Structural\ Planning
+Unfolding = Executable\ Structural\ Planning
 }
 $$
 
@@ -2324,9 +2318,7 @@ $$
 does not necessarily imply:
 
 $$
-U(CG_A,T)
-=
-U(CG_B,T)
+U(CG_A,T) = U(CG_B,T)
 $$
 
 and introduces:
