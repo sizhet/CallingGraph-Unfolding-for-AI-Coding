@@ -182,15 +182,11 @@ A CallingGraph comparison operates on folded representations.
 
 If:
 
-$$
-F(Program_A)=CG_A
-$$
+$$ F(Program_A)=CG_A $$
 
 and:
 
-$$
-F(Program_B)=CG_B
-$$
+$$ F(Program_B)=CG_B $$
 
 then:
 
@@ -204,19 +200,11 @@ means the two programs are similar under the selected Folding representation.
 
 It does not necessarily mean:
 
-$$
-Program_A
-=
-Program_B
-$$
+$$ Program_A = Program_B $$
 
 nor:
 
-$$
-Behavior_A
-=
-Behavior_B
-$$
+$$ Behavior_A = Behavior_B $$
 
 This distinction is fundamental.
 
@@ -285,17 +273,13 @@ $$
 
 and:
 
-$$
-U_B(t)=U(CG_B,t)
-$$
+$$ U_B(t)=U(CG_B,t) $$
 
 Then the **Unfolding Gap** is defined conceptually as:
 
-$$
+$$ 
 \boxed{
-\Delta_U(t)
-=
-U_A(t)
+\Delta_U(t) = U_A(t)
 \ominus
 U_B(t)
 }
@@ -346,9 +330,7 @@ CG_A
 \approx
 CG_B
 \not\Rightarrow
-U(CG_A,t)
-=
-U(CG_B,t)
+U(CG_A,t) = U(CG_B,t)
 }
 $$
 
@@ -500,18 +482,14 @@ The existence of an Unfolding Gap often depends on structural granularity.
 
 Let:
 
-$$
-CG^{(g)}
-$$
+$$ CG^{(g)} $$
 
 represent a CallingGraph constructed at granularity \(g\).
 
 A coarse graph may satisfy:
 
 $$
-CG_A^{(g_1)}
-=
-CG_B^{(g_1)}
+CG_A^{(g_1)} = CG_B^{(g_1)}
 $$
 
 while a finer graph reveals:
