@@ -685,11 +685,7 @@ $$
 
 such that:
 
-$$
-U(CG_A,t^*)
-\neq
-U(CG_B,t^*)
-$$
+$$ U(CG_A,t^{-}) \neq U(CG_B,t^{-}) $$
 
 CGU defines:
 

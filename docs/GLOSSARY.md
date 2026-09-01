@@ -1263,9 +1263,7 @@ For design vs realization:
 
 $$
 \boxed{
-\Delta CG
-=
-DT\text{-}CG
+\Delta CG = DT\text{-}CG
 \ominus
 RT\text{-}CG
 }
@@ -1318,9 +1316,7 @@ For trigger \(t\):
 
 $$
 \boxed{
-\Delta_U(t)
-=
-U(CG_A,t)
+\Delta_U(t) = U(CG_A,t)
 \ominus
 U(CG_B,t)
 }
@@ -1330,9 +1326,7 @@ For Design-Time and Realized graphs:
 
 $$
 \boxed{
-\Delta_U(t)
-=
-U(DT\text{-}CG,t)
+\Delta_U(t) = U(DT\text{-}CG,t)
 \ominus
 U(RT\text{-}CG,t)
 }
@@ -1353,9 +1347,7 @@ Functional structure expected from the design unfolding but absent from the real
 Formally:
 
 $$
-\Delta_U^-
-=
-U_D-U_R
+\Delta_U^- = U_D-U_R
 $$
 
 ## Examples
@@ -1376,9 +1368,7 @@ Functional structure appearing in the realized unfolding but absent from the des
 Formally:
 
 $$
-\Delta_U^+
-=
-U_R-U_D
+\Delta_U^+ = U_R-U_D
 $$
 
 ## Interpretation
@@ -1403,17 +1393,13 @@ A structural difference in whether one functional node can reach another.
 Example:
 
 $$
-Reachable_D(A,C)
-=
-True
+Reachable_D(A,C) = True
 $$
 
 but:
 
 $$
-Reachable_R(A,C)
-=
-False
+Reachable_R(A,C) = False
 $$
 
 ## Importance
@@ -1463,9 +1449,7 @@ A structural difference that becomes visible only at a finer graph resolution.
 A coarse graph may show:
 
 $$
-CG_A^{(g_1)}
-=
-CG_B^{(g_1)}
+CG_A^{(g_1)} = CG_B^{(g_1)}
 $$
 
 while a finer representation shows:
@@ -1496,9 +1480,7 @@ The phenomenon in which different richer program structures map to the same or s
 Conceptually:
 
 $$
-F(X)
-=
-F(Y)
+F(X) = F(Y)
 $$
 
 while:
@@ -1574,9 +1556,7 @@ A relation indicating that two CallingGraphs produce equivalent unfolding result
 For tested triggers:
 
 $$
-U(CG_A,T)
-=
-U(CG_B,T)
+U(CG_A,T) = U(CG_B,T)
 $$
 
 ## Important Scope Note
@@ -1701,9 +1681,7 @@ An observed sequence of runtime functional execution events.
 Conceptually:
 
 $$
-T_R
-=
-(v_1,v_2,\dots,v_n)
+T_R = (v_1,v_2,\dots,v_n)
 $$
 
 with actual execution ordering.
@@ -1750,9 +1728,7 @@ Canonical form:
 
 $$
 \boxed{
-Certification
-=
-Claim
+Certification = Claim
 +
 Evidence
 +
@@ -1783,9 +1759,7 @@ $$
 Conceptually:
 
 $$
-C_{cert}
-=
-f(
+C_{cert} = f(
 CGMatch,
 UnfoldingEvidence,
 Coverage,
@@ -1895,9 +1869,7 @@ The fraction of planned or relevant triggers actually tested.
 If the planned trigger set is known:
 
 $$
-Coverage_T
-=
-\frac{|T_{tested}|}{|T_{planned}|}
+Coverage_T = \frac{|T_{tested}|}{|T_{planned}|}
 $$
 
 ---
@@ -1909,9 +1881,7 @@ $$
 The fraction of intended graph nodes included in tested unfolding or validation regions.
 
 $$
-Coverage_V
-=
-\frac{|V_{covered}|}{|V_{DT}|}
+Coverage_V = \frac{|V_{covered}|}{|V_{DT}|}
 $$
 
 ---
@@ -1923,9 +1893,7 @@ $$
 The fraction of intended calling edges included in tested structural regions.
 
 $$
-Coverage_E
-=
-\frac{|E_{covered}|}{|E_{DT}|}
+Coverage_E = \frac{|E_{covered}|}{|E_{DT}|}
 $$
 
 ---
@@ -1965,9 +1933,7 @@ Coverage weighted by structural criticality rather than treating all graph eleme
 Conceptually:
 
 $$
-Coverage_{risk}
-=
-\frac{
+Coverage_{risk} = \frac{
 \sum_{x\in Tested}Criticality(x)
 }{
 \sum_{x\in Planned}Criticality(x)
@@ -2011,9 +1977,7 @@ The seriousness of a detected structural gap.
 Conceptually:
 
 $$
-Severity(\Delta)
-=
-f(
+Severity(\Delta) = f(
 Size,
 Criticality,
 Reachability,
@@ -2145,9 +2109,7 @@ A broader term for the collection of inspectable artifacts supporting certificat
 
 $$
 \boxed{
-Certificate
-=
-Inspectable\ Evidence\ Package
+Certificate = Inspectable\ Evidence\ Package
 }
 $$
 
@@ -2487,9 +2449,7 @@ Within CGU:
 
 $$
 \boxed{
-DT\text{-}CG
-=
-Generative\ Structural\ Skeleton
+DT\text{-}CG = Generative\ Structural\ Skeleton
 }
 $$
 
@@ -2912,9 +2872,7 @@ A proposed future richer path representation incorporating multiple structural d
 Conceptually:
 
 $$
-P^*
-=
-\{(v_i,c_i,s_i,e_i)\}
+P^* = \{(v_i,c_i,s_i,e_i)\}
 $$
 
 where functional units, conditions, states, and transitions may be represented together.
@@ -3249,9 +3207,7 @@ $$
 
 $$
 \boxed{
-\Delta CG
-=
-DT\text{-}CG
+\Delta CG = DT\text{-}CG
 \ominus
 RT\text{-}CG
 }
@@ -3261,9 +3217,7 @@ $$
 
 $$
 \boxed{
-\Delta_U(t)
-=
-U(DT\text{-}CG,t)
+\Delta_U(t) = U(DT\text{-}CG,t)
 \ominus
 U(RT\text{-}CG,t)
 }

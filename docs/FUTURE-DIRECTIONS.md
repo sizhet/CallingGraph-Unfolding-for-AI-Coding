@@ -1019,9 +1019,7 @@ The challenge is determining when local recertification is sufficient and when g
 If:
 
 $$
-G
-=
-G_1\cup G_2\cup\dots\cup G_n
+G = G_1\cup G_2\cup\dots\cup G_n
 $$
 
 can:
@@ -1045,9 +1043,7 @@ Cross-boundary relations must also be validated.
 Therefore:
 
 $$
-GlobalCertification
-=
-LocalEvidence
+GlobalCertification = LocalEvidence
 +
 BoundaryEvidence
 +
@@ -1119,9 +1115,7 @@ This connects structural possibility to actual execution.
 A Calling Path:
 
 $$
-P
-=
-(v_1,v_2,\dots,v_n)
+P = (v_1,v_2,\dots,v_n)
 $$
 
 may become an important unit for:
@@ -1151,9 +1145,7 @@ $$
 where:
 
 $$
-C
-=
-Condition / Context
+C = Condition / Context
 $$
 
 The question changes from:
@@ -1193,9 +1185,7 @@ $$
 where:
 
 $$
-S
-=
-Runtime\ State
+S = Runtime\ State
 $$
 
 Then the question becomes:
@@ -1205,9 +1195,7 @@ Then the question becomes:
 A possible path object becomes:
 
 $$
-P^*
-=
-\{
+P^* = \{
 (v_i,c_i,s_i,e_i)
 \}
 $$
@@ -1411,9 +1399,7 @@ One of the most promising future formulations is:
 
 $$
 \boxed{
-Trajectory
-=
-U(
+Trajectory = U(
 \Pi_{c,s,p,t}(\mathcal{G})
 )
 }
@@ -1480,9 +1466,7 @@ This could reduce duplication among separate design graphs.
 If Function, Condition, and State are eventually integrated, a Calling Path may evolve into a richer unit:
 
 $$
-P^*
-=
-(
+P^* = (
 Function,
 Condition,
 State,
@@ -1729,9 +1713,7 @@ A stronger retrieval signal could include prior certification evidence.
 For example:
 
 $$
-Rank(Pattern)
-=
-f(
+Rank(Pattern) = f(
 StructuralSimilarity,
 PriorSuccess,
 CertificationDepth,
