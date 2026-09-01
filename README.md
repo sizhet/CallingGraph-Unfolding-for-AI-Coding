@@ -2065,7 +2065,7 @@ AI Research Assistant
 
 2026
 
-DOI: TBD
+DOI: 10.5281/zenodo.19898161
     
 ---
 
