@@ -961,7 +961,7 @@ $$
 
 such that:
 
-$$ \boxed{ U(CG_A,t^*) \neq U(CG_B,t^*) } $$
+$$ U(CG_A,t^*) \neq U(CG_B,t^*) $$
 
 Therefore:
 
@@ -2394,9 +2394,7 @@ with:
 
 $$
 \boxed{
-\Delta_U(t)
-=
-U(CG_A,t)
+\Delta_U(t) = U(CG_A,t)
 \ominus
 U(CG_B,t)
 }
@@ -2410,18 +2408,14 @@ CG_A
 \approx
 CG_B
 \not\Rightarrow
-U(CG_A,t)
-=
-U(CG_B,t)
+U(CG_A,t) = U(CG_B,t)
 }
 $$
 
 and even:
 
 $$
-U(CG_A,T)
-=
-U(CG_B,T)
+U(CG_A,T) = U(CG_B,T)
 $$
 
 for a finite trigger set does not generally establish universal runtime equivalence.
