@@ -31,11 +31,7 @@ $$
 
 does not necessarily imply:
 
-$$
-U(CG_A,t)
-=
-U(CG_B,t)
-$$
+$$ U(CG_A,t) = U(CG_B,t) $$
 
 for every relevant trigger \(t\).
 
